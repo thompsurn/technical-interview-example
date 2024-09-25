@@ -22,6 +22,12 @@ I implemented logic to handle pagination, ensuring the script continued to fetch
 4. Sorting Validation
 Once I had gathered the first 100 articles, I verified that they were sorted correctly from newest to oldest by comparing their timestamps using JavaScript’s Date object.
 
+#### Testing
+
+In order to see the results of this challenge, simply run:
+
+npm i
+node index.js
 
 
 
