@@ -53,11 +53,10 @@ async function sortHackerNewsArticles() {
     console.log('The articles are NOT sorted correctly.');
   }
 
-  /* OPTIONAL: you could choose to close the browser after validation using the following code:
    
   await browser.close();
 
-  */
+
 }
 
 (async () => {
